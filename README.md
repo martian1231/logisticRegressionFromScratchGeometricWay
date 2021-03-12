@@ -7,6 +7,7 @@ Logistic regression measures the relationship between the categorical dependent 
 <img src="https://static.javatpoint.com/tutorial/machine-learning/images/linear-regression-vs-logistic-regression.png" alt="Linear Regression vs Logistic Regression - Javatpoint" style="zoom: 67%;" />
 
 <center>Linear regression VS Logistic regression</center>
+
 ### Assumption of Logistic regression algorithm
 **Logistic regression assumes that the data is linearly separable or almost linearly separable.**
 
