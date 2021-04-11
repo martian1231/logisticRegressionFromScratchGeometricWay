@@ -1,4 +1,4 @@
-# logistic regression geometric way (a linear classification algorithm)
+# Logistic regression geometric way (a linear classification algorithm)
 Logistic regression is a type of statistical analysis which is used in classification task. It tries to predict discrete outcome/ class given the query point.
 
 Unlike linear regression which tries to predict continuous output by exploring the relationship between continuous dependent variable and one or more independent variable, LR outcome is discrete (one of many discrete values).
