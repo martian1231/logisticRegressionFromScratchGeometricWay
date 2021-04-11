@@ -1,3 +1,7 @@
+<p align="center">
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martian1231/logisticRegressionFromScratchGeometricWay/blob/main/logistic_regression_on_iris_dataset_from_scratch(geometric_way).ipynb]
+</p>
+
 # Logistic regression geometric way (a linear classification algorithm)
 Logistic regression is a type of statistical analysis which is used in classification task. It tries to predict discrete outcome/ class given the query point.
 
