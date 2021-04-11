@@ -1,5 +1,5 @@
-<p align="center">
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martian1231/logisticRegressionFromScratchGeometricWay/blob/main/logistic_regression_on_iris_dataset_from_scratch(geometric_way).ipynb]
+<p align= "center">
+<a href="https://colab.research.google.com/github/martian1231/logisticRegressionFromScratchGeometricWay/blob/main/logistic_regression_on_iris_dataset_from_scratch(geometric_way).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a>
 </p>
 
 # Logistic regression geometric way (a linear classification algorithm)
